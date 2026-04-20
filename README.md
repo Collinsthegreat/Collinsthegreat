@@ -1,5 +1,5 @@
 
-  DevOps Engineer-in-Training | Backend Developer-in-Training | AI/ML Enthusiast  
+  DevOps Engineer | Backend Developer | AI/ML Enthusiast  
   Software Engineering Graduate, Nile University, Nigeria  
   Passionate about building cloud-native, scalable systems that automate deployment, optimize infrastructure, and solve real-world problems.
 
