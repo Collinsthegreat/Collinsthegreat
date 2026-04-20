@@ -29,7 +29,7 @@
 
  Connect With Me
 
-[LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abuchi-nwajagu-collins-000b36232)  
+[LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abuchi-collins)  
 gmail:  abuchicollins449@gmail.com
 
 Driven by a mission to empower African tech companies with efficient infrastructure and intelligent systems.
